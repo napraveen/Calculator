@@ -1,2 +1,3 @@
 # Calculator
-This is a simple calculator made using Html5,Css,Javascript
+<p>This is a simple calculator</p>
+<p>Tech Stack : Html5,Css,Javascript</p>
